@@ -8,10 +8,37 @@ body {
 
 }
 
+
 main {
     background-color: blanchedalmond;
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow:3px 3px 5px black ;
+}
+
+h1 {
+    font-size: 2em;
+    color: blueviolet;
+}
+
+h2 {
+    font-size: 1.5e;
+    color: cadetblue;
+}
+img.log {
+    float: right;
+}
+
+
+a {
+     text-decoration:none ;
+     font-weight: bold;
+     color: chartreuse;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: darkblue rgb(26, 26,255);
+
 }
